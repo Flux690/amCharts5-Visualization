@@ -1,4 +1,4 @@
-# Interactive Infographic amCharts5
+# Interactive Infographics on amCharts5- JavaScript Charting Library
 
 ## Overview
 
