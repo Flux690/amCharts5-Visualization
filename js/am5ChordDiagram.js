@@ -19,7 +19,7 @@
         startAngle: 90,
         centerX: am5.percent(0),
         centerY: am5.percent(0),
-        radius: am5.percent(81),
+        radius: am5.percent(78),
       })
     );
 

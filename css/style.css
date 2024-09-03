@@ -8,10 +8,10 @@
 
 #main-heading {
   position: absolute;
-  width: 400px;
-  font-size: 2rem;
+  width: 300px;
+  font-size: 1.5rem;
   float: left;
-  top: -5%;
+  top: 0%;
 }
 
 #main-heading span {
@@ -29,11 +29,11 @@
 
 #radar-explain {
   position: absolute;
-  width: 150px;
-  font-size: 14px;
+  width: 135px;
+  font-size: 13px;
   font-weight: 600;
   text-align: justify;
-  left: 74%;
+  left: 75%;
 }
 
 #radar-explain span {
@@ -42,14 +42,13 @@
 }
 
 #chord-diagram {
-  /* background-color: aqua; */
   position: absolute;
   top: 48%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 37%;
+  width: 35%;
   border-radius: 8rem;
-  height: 62%;
+  height: 61%;
 }
 
 #chord-explain {
@@ -115,15 +114,15 @@
 #bar-explain2 {
   position: absolute;
   top: 81.5%;
-  left: 73%;
+  left: 75%;
   width: 120px;
   font-weight: 600;
-  font-size: 14px;
+  font-size: 13px;
 }
 
 #bar-explain2 #sub-part3,
 #sub-part4 {
   position: absolute;
-  font-size: 13px;
+  font-size: 12px;
   font-weight: lighter;
 }
