@@ -21,7 +21,7 @@ Usage
 
 
 ## Viewing the Visualizations:
-Please vsit https://flux690.github.io/test/ to view the interactive design.
+Please vsit https://flux690.github.io/amCharts5-Visualization/ to view the interactive design.
 
 
 #### NOTE- The visualizations are optimized for desktop viewing only (no support for mobile screens). For the best experience, use a modern browser like Chrome, Firefox, or Edge.
