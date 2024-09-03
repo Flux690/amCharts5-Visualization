@@ -1,3 +1,4 @@
+<div align="justify">
 # Interactive Infographics on amCharts5- JavaScript Charting Library
 
 ## Overview
@@ -27,3 +28,4 @@ Please vsit https://flux690.github.io/amCharts5-Visualization/ to view the inter
 #### NOTE- The visualizations are optimized for desktop viewing only (no support for mobile screens). For the best experience, use a modern browser like Chrome, Firefox, or Edge.
 
 #### Feedback- If you have any questions or feedback, please feel free to reach out.
+</div>
