@@ -24,6 +24,6 @@ Usage
 Please vsit https://flux690.github.io/test/ to view the interactive design.
 
 
-### NOTE- The visualizations are optimized for desktop viewing only (no support for mobile screens). For the best experience, use a modern browser like Chrome, Firefox, or Edge.
+#### NOTE- The visualizations are optimized for desktop viewing only (no support for mobile screens). For the best experience, use a modern browser like Chrome, Firefox, or Edge.
 
-### Feedback- If you have any questions or feedback, please feel free to reach out.
+#### Feedback- If you have any questions or feedback, please feel free to reach out.
