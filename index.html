@@ -1,36 +1,38 @@
 <!DOCTYPE html>
+<html lang="en">
+<head>
     <meta charset="utf-8">
-    <head><link rel="stylesheet" href="./css/style.css"></head>
-    <body>
-        <script src="https://cdn.amcharts.com/lib/5/index.js"></script>
-        <script src="https://cdn.amcharts.com/lib/5/xy.js"></script>
-        <script src="https://cdn.amcharts.com/lib/5/flow.js"></script>
-        <script src="https://cdn.amcharts.com/lib/5/radar.js"></script>
-        <script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
-        
-        <script src = "./js/am5BarGraph.js"></script>
-        <script src = "./js/am5ChordDiagram.js"></script>
-        <script src = "./js/am5stackedBar.js"></script>
+    <title>Your Page Title</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <script src="https://cdn.amcharts.com/lib/5/index.js"></script>
+    <script src="https://cdn.amcharts.com/lib/5/xy.js"></script>
+    <script src="https://cdn.amcharts.com/lib/5/flow.js"></script>
+    <script src="https://cdn.amcharts.com/lib/5/radar.js"></script>
+    <script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
+    <script src="./js/am5BarGraph.js"></script>
+    <script src="./js/am5ChordDiagram.js"></script>
+    <script src="./js/am5stackedBar.js"></script>
 
-        <div id="chart-container">
-            <div id="radar-chart"></div>
-            <div id="chord-diagram"></div>
-            <div id="stacked-bar">
-            </div>
-            <p id="main-heading"><span>Private Equity</span> seeks foothold <span>in energy transition</span></p>
-            <p id="radar-explain">Global private capital investment in energy transition by month<br><span>($,Billions)</span></p>
-            <p id="chord-explain">Investment Flows <span id="date-range">Aug-22 to Ag-23</span></p>
-            <span id="firm-type" style="margin-right: 20px;">Investment Firm Type</span>
-            <span id="category">Energy Transition Category</span>
-            <div style="position: absolute; top: 16%; left: 49.1%; border-left: 2px dotted #c0c0c0; height: 40px; margin: 10px;"></div>
-            <p id="bar-explain1"> <span style="font-size: 1.2rem;">$</span>496<span id="sub-part1">billiion<br>
-                <span id="sub-part2">Private Capital for energy Transition in the 12 months
-                    <br>since IRA passage in Aug-22</span></span></p>
-            <p id="bar-explain2">Private capital<br> investments in<br> ET by region<br>
-                <span id="sub-part3">Aug-22 to Aug-23</span><br>
-                <span id="sub-part4">($, billions)</span>
-            </p>
-        </div>
+    <div id="chart-container">
+        <div id="radar-chart"></div>
+        <div id="chord-diagram"></div>
+        <div id="stacked-bar"></div>
+        <p id="main-heading"><span>Private Equity</span> seeks foothold <span>in energy transition</span></p>
+        <p id="radar-explain">Global private capital investment in energy transition by month<br><span>($,Billions)</span></p>
+        <p id="chord-explain">Investment Flows <span id="date-range">Aug-22 to Ag-23</span></p>
+        <span id="firm-type" style="margin-right: 20px;">Investment Firm Type</span>
+        <span id="category">Energy Transition Category</span>
+        <div style="position: absolute; top: 16%; left: 49.1%; border-left: 2px dotted #c0c0c0; height: 40px; margin: 10px;"></div>
+        <p id="bar-explain1"><span style="font-size: 1.2rem;">$</span>496<span id="sub-part1">billion<br>
+            <span id="sub-part2">Private Capital for energy Transition in the 12 months
+                <br>since IRA passage in Aug-22</span></span></p>
+        <p id="bar-explain2">Private capital<br> investments in<br> ET by region<br>
+            <span id="sub-part3">Aug-22 to Aug-23</span><br>
+            <span id="sub-part4">($, billions)</span>
+        </p>
+    </div>
 
-    </body>
+</body>
 </html>
